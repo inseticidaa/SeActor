@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeActor", "SeActor\SeActor.csproj", "{8298DB18-B7B0-4E89-B71E-C6F0D4144433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{1D8E4D48-396B-4284-87F7-ECCA431CC8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8298DB18-B7B0-4E89-B71E-C6F0D4144433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8298DB18-B7B0-4E89-B71E-C6F0D4144433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8298DB18-B7B0-4E89-B71E-C6F0D4144433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8298DB18-B7B0-4E89-B71E-C6F0D4144433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8E4D48-396B-4284-87F7-ECCA431CC8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8E4D48-396B-4284-87F7-ECCA431CC8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8E4D48-396B-4284-87F7-ECCA431CC8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8E4D48-396B-4284-87F7-ECCA431CC8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC99BE6-FA3F-442B-80F6-7B7D46A86D45}
+	EndGlobalSection
+EndGlobal
